@@ -17,9 +17,9 @@
 
 # Q3 Where is the correct place to insert a JavaScript?
 
-.A : both the <head> section and the body section are correct
+.A : both the <head> section and the body section are correct   (True)
 .B : the <head> section 
-.C : the <body> section    (True)
+.C : the <body> section    
   
 
 # Q4  What is the correct syntax for referring to an external script called "xxx.js"?    ?
@@ -93,11 +93,11 @@ function myFunction (p1 p2) {
 myFunction (2,3)
 
 
-.A : 6    (True)
+.A : 6    
 .B : 2
 .C : 3
 .D : null
-.E : Error
+.E : Error   (True)
                                                                                
 # Q 12 What type of data cannot be used as a parameter
 
@@ -122,9 +122,9 @@ myFunction (2,3)
 
 
 .A : 0
-.B : 1       (True)
+.B : 1      
 .C : 1 or more
-.D : depends on the function
+.D : depends on the function    (True)
                           
 
 # Q15 What’s the return value of this function? 
@@ -154,7 +154,7 @@ greeting (19)
 .A : undefined
 .B : "Good night"  
 .C : "Good day"
-.E : Error  (True)
+.E : Error    (True)
 
 # Q17 How can you add a comment in a JavaScript?
 
@@ -209,10 +209,10 @@ function() {
 console.log(a)
 }
 
-.A  : 7
+.A  : 7        (True)
 .B  : 10
 .C  : null
-.D  : undefined    (True)
+.D  : undefined    
 
 # Q23 What does the following snippet output?
 var a = 10
